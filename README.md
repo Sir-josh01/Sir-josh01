@@ -25,5 +25,8 @@ I am a Machine Learning Engineer with a touch of Cloud Engineering, driven by Ma
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josepholaidepetro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rishab's GitHub Stats" />
 </a>
 
-
+<br/>
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
+* [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-olaide-831275168/) 
+* 
