@@ -12,40 +12,13 @@
 </p>
 
 ---
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Cloud, Code, Life| EP 9](https://www.youtube.com/watch?v=kpUt6mAXO1g)
-- [Thursday stream! money/salaries, life updates, etc](https://www.youtube.com/watch?v=x-SQasJI0zE)
-- [Thursday stream!](https://www.youtube.com/watch?v=zKRKBVUHQUY)
-- [How to get into Cloud Computing](https://www.youtube.com/watch?v=OGEDXsoL_10)
-- [Azure Functions and SignalR Coworking GPS + Rishab](https://www.youtube.com/watch?v=2ZPRcuc2qTI)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [AZ-104 Study Guide: Azure Administrator](https://blog.rishabkumar.com/az-104-study-guide-azure-administrator)
-- [A Cloud Guru Azure Resume Challenge 2021](https://blog.rishabkumar.com/a-cloud-guru-azure-resume-challenge-2021)
-- [How I passed the SC-900 Microsoft Security, Compliance, and Identity Fundamentals exam](https://blog.rishabkumar.com/how-i-passed-the-sc-900-microsoft-security-compliance-and-identity-fundamentals-exam)
-- [Adding custom domain and SSL certificate Azure Static Web Apps](https://blog.rishabkumar.com/adding-custom-domain-and-ssl-certificate-azure-static-web-apps)
-- [What is WSL and how to use it with VSCode](https://blog.rishabkumar.com/what-is-wsl-and-how-to-use-it-with-vscode)
-<!-- BLOG-POST-LIST:END -->
-▶️ [more blog posts...](https://blog.rishabkumar.com)
-
----
-
 ### My Github Stats 📊
 
-<a href="https://github.com/rishabkumar7/rishabkumar7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabkumar7&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Josepholaidepetro/olaidejoseph">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josepholaidepetro&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/rishabkumar7/rishabkumar7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabkumar7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rishab's GitHub Stats" />
+<a href="https://github.com/Josepholaidepetro/olaidejoseph/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josepholaidepetro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rishab's GitHub Stats" />
 </a>
 
 
