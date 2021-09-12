@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Repository!
 ### Hi there I am Joseph<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am a Machine Learning Engineer with a touch of Cloud Engineering, driven by Machine Learning applications in the energy industry and the world.  If you would like to collaborate, kindly [contact me](https://github.com/yohanesnuwara/yohanesnuwara#-contact-me) if you wish!
+I am a Machine Learning Engineer with a touch of Cloud Engineering, driven by Machine Learning applications in the energy industry and the world.  If you would like to collaborate, kindly [contact me](https://github.com/Josepholaidepetro/olaidejoseph/blob/main/README.md#-contact-me) if you wish!
 <br/>
 
 
@@ -25,8 +25,6 @@ I am a Machine Learning Engineer with a touch of Cloud Engineering, driven by Ma
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josepholaidepetro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rishab's GitHub Stats" />
 </a>
 
-
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Josepholaidepetro/olaidejoseph/)
 
 ### 💬 Contact me
 
