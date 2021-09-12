@@ -29,4 +29,4 @@ I am a Machine Learning Engineer with a touch of Cloud Engineering, driven by Ma
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Josepholaidepetro/olaidejoseph/)
 
 * [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-olaide-831275168/) 
-* [![img](https://github.com/Josepholaidepetro/olaidejoseph/blob/main/svgs/gmail-icon.svg)](josepholaide10@gmail.com)
+* [![img](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josepholaide10@gmail.com)
