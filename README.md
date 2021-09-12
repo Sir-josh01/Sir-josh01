@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Repository!
-### Hi there I am Joseph<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, I am Joseph<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am a Machine Learning Engineer with a touch of Cloud Engineering, driven by Machine Learning applications in the energy industry and the world.  If you would like to collaborate, kindly [contact me](https://github.com/Josepholaidepetro/olaidejoseph/blob/main/README.md#-contact-me) if you wish!
 <br/>
 
