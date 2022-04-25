@@ -16,10 +16,10 @@ I am a Data Scientist and a Machine Learning Developer with a touch of Cloud Eng
 ### My Github Stats 📊
 
 <a href="https://github.com/Josepholaide/olaidejoseph">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josepholaidepetro&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josepholaide&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Josepholaide/olaidejoseph/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josepholaidepetro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rishab's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josepholaide&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joseph's GitHub Stats" />
 </a>
 
 
