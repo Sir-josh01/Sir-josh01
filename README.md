@@ -24,6 +24,10 @@ I am a Data Scientist and a Machine Learning Developer with a touch of Cloud Eng
 </a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josepholaide&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### 💬 Contact me
 
 * [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-olaide-831275168/) 
