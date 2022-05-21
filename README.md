@@ -24,8 +24,6 @@ I am a Data Scientist and a Machine Learning Developer with a touch of Cloud Eng
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josepholaide&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ### 💬 Contact me
