@@ -24,7 +24,8 @@ I am a Software developer and a Machine Learning Developer, I am interested in c
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=saheedniyi02&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saheedniyi02&langs_count=5&theme=tokyonight)]()
-
+![](https://komarev.com/ghpvc/?username=saheedniyi02)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saheedniyi02)](https://git.io/streak-stats)
 
 
 ### 💬 Contact me
