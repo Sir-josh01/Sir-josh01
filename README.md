@@ -8,8 +8,8 @@ I am a Software developer and a Machine Learning Developer, I am interested in c
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> 
-<img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/ai.svg" alt="AI Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+<img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/ai.svg" alt="AI Logo" width="50" height="100"/>
+<img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/datascience.svg" alt="Data science Logo" width="100" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 
