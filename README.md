@@ -1,7 +1,6 @@
 ## Welcome to my GitHub Repository!
-### Hi, I am Joseph<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am a Data Scientist and a Machine Learning Developer with a touch of Cloud Engineering, driven by Machine Learning applications in the energy industry and the world.  If you would like to collaborate, kindly [contact me](https://github.com/Josepholaidepetro/olaidejoseph/blob/main/README.md#-contact-me) if you wish!
-<br/>
+### Hi, I am Saheed Ayanniyi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I am a Software developer and a Machine Learning Developer, I am interested in creating machine learning products that find applications on the web.
 
 ---
 
@@ -15,12 +14,12 @@ I am a Data Scientist and a Machine Learning Developer with a touch of Cloud Eng
 ---
 ### My Github Stats 📊
 
-<a href="https://github.com/Josepholaide/olaidejoseph">
-  <img align="center" src="![Joseph Olaide's GitHub stats](https://github-readme-stats.vercel.app/api?username=josepholaide&show_icons=true&theme=radical)
-" />
+<a href="https://github.com/saheedniyi02/saheedniyi02">
+  <img align="center" src="![Saheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=saheedniyi02&show_icons=true&theme=radical)
+"/>
 </a>
-<a href="https://github.com/Josepholaide/olaidejoseph/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josepholaide&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joseph's GitHub Stats" />
+<a href="https://github.com/saheedniyi02/saheedniyi02/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saheedniyi02&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saheed's GitHub Stats" />
 </a>
 
 
