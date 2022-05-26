@@ -27,6 +27,6 @@ I am a Software developer and a Machine Learning Developer, I am interested in c
 
 ### 💬 Contact me
 
-* [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-olaide-831275168/) 
-* [![img](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josepholaide10@gmail.com)
+* [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azeez-saheed) 
+* [![img](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saheedniyi02@gmail.com)
 * ![twitter-follower](https://img.shields.io/twitter/follow/ace_sprint?style=social)
