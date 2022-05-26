@@ -22,9 +22,9 @@ I am a Software developer and a Machine Learning Developer, I am interested in c
 ---
 ### My Github Stats 📊
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/?username=saheedniyi02&count_private=true&theme=tokyonight&showicons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheedniyi02&langs_count=5&theme=tokyonight">
-<img src="https://komarev.com/ghpvc/?username=saheedniyi02">
+<img src="https://github-readme-stats.vercel.app/api/?username=saheedniyi02&count_private=true&theme=tokyonight&showicons=true"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheedniyi02&langs_count=5&theme=tokyonight"><br>
+<img src="https://komarev.com/ghpvc/?username=saheedniyi02"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saheedniyi02">
 </p>
 
