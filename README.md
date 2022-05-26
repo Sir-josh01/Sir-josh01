@@ -8,10 +8,11 @@ I am a Software developer and a Machine Learning Developer, I am interested in c
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> 
-<img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/ai.svg" alt="AI Logo" width="50" height="100"/>
-<img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/datascience.svg" alt="Data science Logo" width="100" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+<img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/ai.svg" alt="AI Logo" width="50" height="80"/>
+<img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/datascience.svg" alt="Data science Logo" width="100" height="80"/>
+<img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/numpy-1.svg" alt="VSCode Logo" width="50" height="50"/>
+<img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/flask.svg" alt="VSCode Logo" width="50" height="80"/>
+<img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/fastapi-1.svg" alt="VSCode Logo" width="50" height="80"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 <img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/sqlite.svg" alt="SQlite Logo" width="50" height="50"/> 
