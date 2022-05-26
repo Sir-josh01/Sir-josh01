@@ -14,7 +14,6 @@ I am a Software developer and a Machine Learning Developer, I am interested in c
 <img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/scikit-learn-seeklogo.com.svg" alt="scikit-learn Logo" width="80" height="80"/>
 <img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/flask.svg" alt="flask Logo" width="50" height="80"/>
 <img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/fastapi-1.svg" alt="fast API Logo" width="50" height="80"/>
-
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 <img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/sqlite.svg" alt="SQlite Logo" width="50" height="50"/> 
 <img src="https://github.com/saheedniyi02/saheedniyi02/blob/main/svgs/tensorflow-2.svg" alt="tensorflow Logo" width="50" height="50"/>   
