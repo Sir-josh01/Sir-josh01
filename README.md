@@ -14,14 +14,8 @@ I am a Software developer and a Machine Learning Developer, I am interested in c
 ---
 ### My Github Stats 📊
 
-<a href="https://github.com/saheedniyi02/saheedniyi02">
-  <img align="center" src="![Saheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=saheedniyi02&show_icons=true&theme=radical)
-"/>
-</a>
-<a href="https://github.com/saheedniyi02/saheedniyi02/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saheedniyi02&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saheed's GitHub Stats" />
-</a>
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=saheedniyi02&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saheedniyi02&langs_count=5&theme=tokyonight)]()
 
 
 
