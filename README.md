@@ -29,4 +29,4 @@ I am a Software developer and a Machine Learning Developer, I am interested in c
 
 * [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azeez-saheed) 
 * [![img](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saheedniyi02@gmail.com)
-* ![twitter-follower](https://img.shields.io/twitter/follow/ace_sprint?style=social)
+* ![twitter-follower](https://img.shields.io/twitter/follow/saheedniyi_02?style=social)
