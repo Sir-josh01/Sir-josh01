@@ -1,6 +1,7 @@
 ## Welcome to my GitHub Repository!
 ### Hi, I am Saheed Ayanniyi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am a Software developer and a Machine Learning Developer, I am interested in creating machine learning products that find applications on the web.
+I am also actively looking for machine learning internships and opportunities.
 
 ---
 
