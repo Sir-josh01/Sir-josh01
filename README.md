@@ -4,7 +4,9 @@ I am a Software developer and a Machine Learning Developer, I am interested in c
 I am also actively looking for machine learning internships and opportunities.
 
 ---
-
+### Technical articles i've written
+* [HANDLING IMBALANCED DATASETS - Tuning Classification Threshold](https://saheedniyi.hashnode.dev/handling-imbalanced-datasets-tuning-classification-threshold)
+---
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
