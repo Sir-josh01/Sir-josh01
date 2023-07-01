@@ -7,6 +7,7 @@ I am also actively looking for machine learning and software development opportu
 ### Technical articles i've written
 * [HANDLING IMBALANCED DATASETS - Tuning Classification Threshold](https://saheedniyi.hashnode.dev/handling-imbalanced-datasets-tuning-classification-threshold)
 * [You can code on your android phone](https://saheedniyi.hashnode.dev/you-can-code-on-your-android-device)
+*  [Thanos came - The twitter API story](https://saheedniyi.hashnode.dev/thanos-came-the-twitter-api-story)
 ---
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
