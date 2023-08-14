@@ -9,6 +9,7 @@ I am also actively looking for machine learning and software development opportu
 * [You can code on your android phone](https://saheedniyi.hashnode.dev/you-can-code-on-your-android-device)
 *  [Thanos came - The twitter API story](https://saheedniyi.hashnode.dev/thanos-came-the-twitter-api-story)
 *  [Plotting Beautiful Bar Charts with Matplotlib](https://saheedniyi.hashnode.dev/plotting-beautiful-bar-charts-with-matplotlib)
+*  [Ensemble Techniques: Combining Models for Superior Predictive Power](https://saheedniyi.hashnode.dev/ensemble-techniques-combining-models-for-superior-predictive-power)
 ---
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
