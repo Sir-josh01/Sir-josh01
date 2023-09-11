@@ -10,6 +10,7 @@ I am also actively looking for machine learning and software development opportu
 *  [Thanos came - The twitter API story](https://saheedniyi.hashnode.dev/thanos-came-the-twitter-api-story)
 *  [Plotting Beautiful Bar Charts with Matplotlib](https://saheedniyi.hashnode.dev/plotting-beautiful-bar-charts-with-matplotlib)
 *  [Ensemble Techniques: Combining Models for Superior Predictive Power](https://saheedniyi.hashnode.dev/ensemble-techniques-combining-models-for-superior-predictive-power)
+*  [Building a Telegram Bot to Detect Cyberbullying: A Python Machine Learning Tutorial](https://saheedniyi.hashnode.dev/building-a-telegram-bot-to-detect-cyberbullying-a-python-machine-learning-tutorial)
 ---
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
