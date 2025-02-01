@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Repository!
 ### Hi, Egene joshua officially known as Sir-josh<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am a Software developer and a Machine Learning Developer, I am interested in creating machine learning products that find applications on the web.
-I am also actively looking for machine learning and software development opportunities.
+I am a Software developer, I am interested in creating software application products that solves problem and makes live easier on the web.
+I am also actively looking for software development opportunities.
 
 ---
 ### Technical articles i've written
